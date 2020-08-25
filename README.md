@@ -1,2 +1,2 @@
-# jumysbartestrepo
-JumysBarSwiftRepo
+# JumysBar BTSEducation
+Swift project
